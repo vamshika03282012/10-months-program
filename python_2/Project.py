@@ -8,7 +8,7 @@ print("Welcome! You must guess the correct words to win.")
 word1 = "Cat"  # str
 hint1 = "It is a home pet"
 max_attempts = 3 # int
-game_won = False  # bool
+game_won = False  # bool.
 
 print(f"Hint: {hint1}")
 
