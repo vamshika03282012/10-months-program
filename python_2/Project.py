@@ -82,8 +82,8 @@ if not game_won:
 
 
 
-word4 = ""
-hint4 = "I am red sometimes, and green sometimes too, who am I?"
+word4 = "owl"
+hint4 = "I stay awake all night, I can turn my head almost all the way arounf and I say Hoo, who am I?"
 game_won = False
 print(f"\nHint: {hint4}")
 
@@ -100,3 +100,5 @@ if not game_won:
     print(f"The Answer was: {word4}") 
 print("\nGame Over! Thanks for playing!")
 print("Hello World\nI have come\n to warn you all\n that your time has come\n to get an A!")
+
+
